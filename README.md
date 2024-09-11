@@ -84,7 +84,7 @@ The data for this project was sourced from:
 
 ## How to Explore the Dashboards:
 To interact with the dashboards:
-1. Go to the novypro link for interactive dashboard. [NovyPro Link](https://project.novypro.com/uEtWmo)
+1. Go to the novypro link for interactive dashboard. [NovyPro Link](https://project.novypro.com/Y1CnYr)
 2. Explore each dashboard through various filters, including **dwelling type**, **intended market**, and **lender type**.
 3. Use the side navigation panel to switch between the **Housing**, **Rentals**, **Construction**, and **Mortgage** dashboards for a detailed analysis.
 
