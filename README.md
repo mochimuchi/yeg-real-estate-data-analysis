@@ -1,7 +1,3 @@
-Sure! Here's a structured and detailed **README** file for your GitHub repository based on the images you provided and your Power BI dashboards. I’ve enhanced the descriptions, emphasizing the dashboard design, real-world data, and its application for investors and consumers.
-
----
-
 # Edmonton Real Estate Market Analysis
 
 This repository contains an extensive analysis of the Edmonton real estate market using real-world data. The project presents valuable insights for both **investors** and **homebuyers** by breaking down various real estate metrics such as **rental prices**, **housing supply**, **construction trends**, and **mortgage data**. The analysis is displayed in **interactive Power BI dashboards**, designed using **Canva** for a clean and user-friendly experience.
