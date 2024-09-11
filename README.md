@@ -29,27 +29,27 @@ This repository contains an extensive analysis of the Edmonton real estate marke
 ## Dashboard Overview:
 
 ### 1. **Housing Dashboard**:
-![Housing Dashboard](link-to-image)
+![Housing Dashboard](https://github.com/mochimuchi/yeg-real-estate-data-analysis/blob/main/Dashboard%20Design/Housing%20Overview.png)
 
 - **Growth in Dwelling Units by Type**: Stacked bar chart showing different dwelling types (e.g., single-detached, apartments) combined with residential vacancy rate trends.
 - **Land Title Transfer by Value**: Line chart illustrating land title transfer trends, giving insights into property value changes over time.
 - **Absorbed vs. Unabsorbed Units**: Bar chart showcasing the market absorption of various dwelling types split by intended market.
 
 ### 2. **Rentals Dashboard**:
-![Rentals Dashboard](link-to-image)
+![Rentals Dashboard](https://github.com/mochimuchi/yeg-real-estate-data-analysis/blob/main/Dashboard%20Design/Rental%20Overview.png)
 
 - **Monthly Rental Prices**: Line chart showing trends for 1-bedroom and 2-bedroom rental prices, along with month-over-month and year-over-year changes.
 - **Estimated Rental Units**: A stacked area chart representing the estimated number of primary rental units segmented by bedroom type.
 - **Vacancy Rates**: Line chart displaying vacancy rates for different rental types (e.g., bachelor, 1-bedroom) over time.
 
 ### 3. **Construction Dashboard**:
-![Construction Dashboard](link-to-image)
+![Construction Dashboard](https://github.com/mochimuchi/yeg-real-estate-data-analysis/blob/main/Dashboard%20Design/Construction%20Overview.png)
 
 - **Housing Completions by Dwelling Type**: Line chart tracking housing completions across multiple dwelling types over time.
 - **Year-over-Year (YoY) Comparisons**: Detailed breakdown of housing starts, completions, and units under construction with YoY growth percentages for each dwelling type.
 
 ### 4. **Mortgage Dashboard**:
-![Mortgage Dashboard](link-to-image)
+![Mortgage Dashboard](https://github.com/mochimuchi/yeg-real-estate-data-analysis/blob/main/Dashboard%20Design/Mortgage%20Overview.png)
 
 - **Mortgage Applications and Approvals**: Bar chart comparing the number of applications and approvals for residential mortgages from 2016 to 2024.
 - **Historical Mortgage Rate**: Line chart showing the trend of mortgage rates over time.
@@ -84,7 +84,7 @@ The data for this project was sourced from:
 
 ## How to Explore the Dashboards:
 To interact with the dashboards:
-1. Download the **Power BI file** or access the published Power BI report (link provided).
+1. Go to the novypro link for interactive dashboard. [NovyPro Link](link)
 2. Explore each dashboard through various filters, including **dwelling type**, **intended market**, and **lender type**.
 3. Use the side navigation panel to switch between the **Housing**, **Rentals**, **Construction**, and **Mortgage** dashboards for a detailed analysis.
 
